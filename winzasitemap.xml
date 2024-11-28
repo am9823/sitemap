@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <!-- Homepage -->
+  <url>
+    <loc>https://winza.bet/</loc>
+    <lastmod>2024-11-28</lastmod>
+    <priority>1.0</priority>
+  </url>
+
+  <!-- Betting Categories -->
+  <url>
+    <loc>https://winza.bet/sports-betting</loc>
+    <lastmod>2024-11-28</lastmod>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://winza.bet/live-betting</loc>
+    <lastmod>2024-11-28</lastmod>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://winza.bet/casino</loc>
+    <lastmod>2024-11-28</lastmod>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://winza.bet/virtual-sports</loc>
+    <lastmod>2024-11-28</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://winza.bet/e-sports</loc>
+    <lastmod>2024-11-28</lastmod>
+    <priority>0.8</priority>
+  </url>
+
+  <!-- Key Pages -->
+  <url>
+    <loc>https://winza.bet/promotions</loc>
+    <lastmod>2024-11-28</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://winza.bet/terms-and-conditions</loc>
+    <lastmod>2024-11-28</lastmod>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://winza.bet/privacy-policy</loc>
+    <lastmod>2024-11-28</lastmod>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://winza.bet/contact</loc>
+    <lastmod>2024-11-28</lastmod>
+    <priority>0.6</priority>
+  </url>
+
+  <!-- User Features -->
+  <url>
+    <loc>https://winza.bet/register</loc>
+    <lastmod>2024-11-28</lastmod>
+    <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>https://winza.bet/login</loc>
+    <lastmod>2024-11-28</lastmod>
+    <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>https://winza.bet/account</loc>
+    <lastmod>2024-11-28</lastmod>
+    <priority>0.7</priority>
+  </url>
+
+  <!-- Betting Markets -->
+  <url>
+    <loc>https://winza.bet/football</loc>
+    <lastmod>2024-11-28</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://winza.bet/basketball</loc>
+    <lastmod>2024-11-28</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://winza.bet/tennis</loc>
+    <lastmod>2024-11-28</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://winza.bet/horse-racing</loc>
+    <lastmod>2024-11-28</lastmod>
+    <priority>0.8</priority>
+  </url>
+
+  <!-- Blog and Updates -->
+  <url>
+    <loc>https://winza.bet/blog</loc>
+    <lastmod>2024-11-28</lastmod>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://winza.bet/blog/how-to-bet</loc>
+    <lastmod>2024-11-28</lastmod>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://winza.bet/blog/latest-news</loc>
+    <lastmod>2024-11-28</lastmod>
+    <priority>0.6</priority>
+  </url>
+</urlset>
